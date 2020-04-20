@@ -16,6 +16,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -moz-font-feature-settings: "liga" on;
+    direction: rtl;
 }
 
 .koenig-editor__editor.__has-no-content:after,

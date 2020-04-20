@@ -364,6 +364,7 @@
     font-weight: 600;
     overflow: hidden;
     box-shadow: none;
+    direction: rtl;
 }
 
 .gh-editor-title:focus {
